@@ -1,0 +1,22 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "Learning sockets with this basic ping pong game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PranavModi999/PingPong-Game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PranavModi999/PingPong-Game/issues"
+  },
+  "homepage": "https://github.com/PranavModi999/PingPong-Game#readme",
+  "dependencies": {
+    "socket.io": "^4.6.2"
+  }
+}
